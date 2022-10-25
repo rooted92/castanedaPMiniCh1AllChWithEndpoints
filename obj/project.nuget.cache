@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "stO/zdTWeX6j7lYLXtCvx/k05vmrkGb7mqstLd5ccNatXOVhGux1V6Ir9QsHVo6oyKT9cEDWUH+2QZdmgk1FEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\petec\\OneDrive\\Documents\\combine22-23\\level1\\assignments\\castanedaPMiniCh1AllChWithEndpoints\\castanedaPMiniCh1AllChWithEndpoints.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\petec\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\petec\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\petec\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\petec\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\petec\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\petec\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
